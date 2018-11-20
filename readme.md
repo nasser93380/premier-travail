@@ -18,7 +18,7 @@
 1. ta deja fais ton temps faut laissé le rainter au petit
 1. sayez ma cité a craquer sayer ma cité a craquer
 
-[cliquez ici](google.com)
+[cliquez ici](http://google.fr)
 
 <a name="ancre"></a>
 
