@@ -1,4 +1,5 @@
 <a name="stop">
+
 # mon premier repo
 
 ## mon premier repo
@@ -17,9 +18,7 @@
 1. ta deja fais ton temps faut laissé le rainter au petit
 1. sayez ma cité a craquer sayer ma cité a craquer
 
-\*
-
 [cliquez ici](google.com)
 
 <a name="ancre">
-[retour en haut #stop]
+    [retour en haut #stop]
