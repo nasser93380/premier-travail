@@ -35,3 +35,22 @@ _c'est fauvette c'est oklm_
 ~~t'est viré mon poto~~
 
 `bloc de code`
+
+**[PlayStation 4 achetez]**(https://www.playstation.com/fr-fr/explore/ps4/)
+[le logo de Framasoft](https://framasoft.org/nav/img/logo.png)
+#La Vendetta
+
+- une personne
+- tes mort
+- tu parle
+- on te coffre
+
+* et toi
+* c'est moi
+* que tu cherche
+* je te casse en deux
+
+1.  tes mort
+2.  exact
+    j'ai perdu le sourire
+    =====================
