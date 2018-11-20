@@ -20,5 +20,6 @@
 \*
 
 [cliquez ici](google.com)
-<mail="entre">
+
+<a name="ancre">
 [retour en haut #stop]
