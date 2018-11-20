@@ -33,3 +33,5 @@ _c'est fauvette c'est oklm_
 **c'est rien c'est la rue**
 
 ~~t'est viré mon poto~~
+
+`bloc de code`
