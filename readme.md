@@ -1,4 +1,4 @@
-<a name="top">
+<a name="top"><a/>
 
 # mon premier repo
 
@@ -20,5 +20,6 @@
 
 [cliquez ici](google.com)
 
-<a name="ancre">
+<a name="ancre"></a>
+
 [retour en haut](#top)
