@@ -36,7 +36,8 @@ _c'est fauvette c'est oklm_
 
 `bloc de code`
 
-**[PlayStation 4 achetez]**(https://www.playstation.com/fr-fr/explore/ps4/)
+\*\*[PlayStation 4 achetez](https://www.playstation.com/fr-fr/explore/ps4/)
+
 [le logo de Framasoft](https://framasoft.org/nav/img/logo.png)
 #La Vendetta
 
@@ -52,5 +53,5 @@ _c'est fauvette c'est oklm_
 
 1.  tes mort
 2.  exact
-    j'ai perdu le sourire
-    =====================
+
+    # **j'ai perdu le sourire**
