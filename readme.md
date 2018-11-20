@@ -21,4 +21,4 @@
 [cliquez ici](google.com)
 
 <a name="ancre">
-    [retour en haut #stop]
+    [retour en haut](#stop)
